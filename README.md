@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="preview.gif" alt="Radial Process Wheel preview" width="900">
-</p>
-
 <h1 align="center">Radial Process Wheel</h1>
 
 <p align="center">
@@ -23,6 +19,12 @@
   <a href="#component-behavior">Component Behavior</a>
   ·
   <a href="#deployment">Deployment</a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="preview.gif" alt="Radial Process Wheel preview" width="900">
 </p>
 
 ## Overview

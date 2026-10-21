@@ -164,6 +164,3 @@ Radial Process Wheel is a static Vite application. Deploy the generated `dist/` 
 | Build command | `npm run build` |
 | Output directory | `dist` |
 
-## License
-
-No license has been declared for this project yet. Add a `LICENSE` file before distributing it.
